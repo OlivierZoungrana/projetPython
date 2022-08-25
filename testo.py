@@ -49,8 +49,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 print("starting")
 
-dotation = int(input("entrer votre budget"))
+dotation = int(input("entrer votre budget: "))
 
+
+
+    
 
 course = {
   "aliment": [],
